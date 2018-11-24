@@ -1,0 +1,1 @@
+conda install -c cogsci pygame      #-c cogsci: <-- include cogsci to the list of channels to look through, so don't have to add. pygame 1.9.2a0
